@@ -1,0 +1,6 @@
+{
+  "src/**/*.{js,jsx,ts,tsx,html,css,scss}": [
+    "pnpm prettier-format",
+    "eslint"
+  ]
+}
